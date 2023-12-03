@@ -12,7 +12,7 @@ methodOne();
 int a=5,b=3;
 
 System.out.println(status);
-System.out.println(a+b);
+System.out.println(a-b);
 	}
 public static void methodOne() {
 	System.out.println("calling methodOne");
