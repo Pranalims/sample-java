@@ -9,7 +9,7 @@ public class testone {
 				double salary=10000.05;
 				methodOne();
 				int a=5,b=3;
-
+                int c=a-b;
 				System.out.println(status);
 				System.out.println(a-b);
 					}
